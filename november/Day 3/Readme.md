@@ -2,7 +2,8 @@
 
 
 
-[![LinkedIn Post](https://img.shields.io/badge/LinkedIn%Post-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://www.linkedin.com/posts/srikanthdoddi_coding-algorithms-binary-activity-7390906802915381248--EZC?utm_source=share&utm_medium=member_desktop&rcm=ACoAACDf8YAB5R14Kp0Qyb8FNe0OW73Ikv8GrxY) 
+[![LinkedIn Post](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/3c98a750-2a90-492a-a0c1-c560dc97b575.png)](https://www.linkedin.com/posts/srikanthdoddi_coding-algorithms-binary-activity-7390906802915381248--EZC?utm_source=share&utm_medium=member_desktop&rcm=ACoAACDf8YAB5R14Kp0Qyb8FNe0OW73Ikv8GrxY)
+
 
 
 ## Problem Statement
